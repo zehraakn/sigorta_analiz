@@ -1,0 +1,201 @@
+CallID;CustomerName;Duration (mins);CallResult;Topic;AgentName;Region;CallDate;CallTime
+1;Akar Ziyaettin Aslan Yüksel;5;Olumlu;Hasar Takibi;Hasan Kaya;Ege;27.04.2025;01:11:14
+2;Zamir Sakarya;9;Olumlu;Hasar Takibi;Ahmet Kara;Akdeniz;10.06.2025;01:53:33
+3;Suat ?afak;4;Olumsuz;Poliçe Bilgisi;Ahmet Kara;Marmara;8.04.2025;11:07:39
+4;Aygutalp Bilir;8;Olumlu;?ikayet;Ahmet Kara;Akdeniz;27.04.2025;23:12:28
+5;Seha Akar;8;Olumsuz;Hasar Bildirimi;Merve Y?ld?z;Akdeniz;13.06.2025;21:30:54
+6;Bayan Seniha ?nsaf Aslan;10;Olumlu;Prim Bilgisi;Zeynep Tuna;Karadeniz;22.06.2025;23:10:41
+7;Çerçi Sezgin;12;Olumsuz;Hasar Bildirimi;Zeynep Tuna;?ç Anadolu;20.04.2025;21:06:06
+8;Dr. Laika Ferahdiba Bilir;5;Olumlu;Poliçe ?ptali;Ahmet Kara;?ç Anadolu;18.06.2025;12:08:19
+9;Ceyhun Çorlu;13;Olumsuz;Prim Bilgisi;Ahmet Kara;Karadeniz;12.05.2025;06:21:48
+10;Id?k ?ekim Ergül Teveto?lu;19;Olumlu;Poliçe ?ptali;Ahmet Kara;Akdeniz;1.05.2025;01:26:48
+11;Yurtta? Mülâyim Duran;11;Olumsuz;?ikayet;Zeynep Tuna;Marmara;17.04.2025;11:56:04
+12;Beste Durmu? Arslan;3;Olumlu;Prim Bilgisi;Hasan Kaya;Marmara;24.06.2025;21:43:17
+13;Ürper Gülfeza Demirel Erdo?an;9;Olumlu;Poliçe ?ptali;Hasan Kaya;Karadeniz;9.04.2025;19:50:49
+14;Dr. As?m ?uayp Bilgin;13;Olumlu;Yenileme;Hasan Kaya;Ege;28.06.2025;12:07:18
+15;Kavurt Ezgütekin Erta? ?ener;10;Olumlu;?ikayet;Zeynep Tuna;Akdeniz;25.06.2025;08:41:12
+16;Feyzin Ni?met Ergül Bilir;9;Olumlu;Poliçe ?ptali;Merve Y?ld?z;?ç Anadolu;9.06.2025;10:41:23
+17;Benek Teveto?lu;19;Olumlu;Hasar Takibi;Hasan Kaya;Marmara;6.06.2025;00:40:30
+18;Bay Bulunç Erta?;9;Olumlu;Prim Bilgisi;Hasan Kaya;Karadeniz;12.05.2025;05:15:49
+19;Çolpan Bilgin;10;Olumlu;Hasar Bildirimi;Hasan Kaya;Ege;10.06.2025;20:20:07
+20;Azize Bilgin;17;Olumsuz;Hasar Takibi;Merve Y?ld?z;Ege;24.06.2025;04:00:26
+21;Ülküde? Gülel Gülen;10;Olumlu;Hasar Bildirimi;Hasan Kaya;Akdeniz;1.05.2025;08:57:00
+22;Dirlik Çamurcuo?lu;15;Olumsuz;Yenileme;Zeynep Tuna;Ege;30.05.2025;10:41:38
+23;Gül?a ?ensoy;18;Olumsuz;Poliçe Bilgisi;Ahmet Kara;Marmara;23.05.2025;20:21:42
+24;Sevican Manço Eraslan;6;Olumlu;Prim Bilgisi;Merve Y?ld?z;Akdeniz;18.04.2025;22:25:51
+25;Dr. Çakar Sittik ?afak;4;Olumsuz;Poliçe ?ptali;Merve Y?ld?z;Akdeniz;1.07.2025;13:08:51
+26;Nevsale Bilgin Yaman;10;Olumlu;Hasar Takibi;Ahmet Kara;Akdeniz;24.05.2025;20:21:03
+27;Bayan Aysuna Bilge Demir;10;Olumsuz;Poliçe Bilgisi;Hasan Kaya;Karadeniz;20.04.2025;05:12:52
+28;Dr. Sözer Erdo?an;7;Olumsuz;Poliçe Bilgisi;Hasan Kaya;Akdeniz;12.05.2025;17:38:29
+29;?ahdiye Erta? F?rat;7;Olumlu;Prim Bilgisi;Hasan Kaya;Akdeniz;29.04.2025;18:54:21
+30;Uraltay Gül;8;Olumlu;Yenileme;Zeynep Tuna;Akdeniz;16.04.2025;11:59:36
+31;Narhanim Demir;18;Olumlu;?ikayet;Hasan Kaya;Karadeniz;3.05.2025;20:58:24
+32;Bayan Servinaz Adila Gül;2;Olumlu;Yenileme;Hasan Kaya;Ege;29.06.2025;09:57:13
+33;Tomurcuk ?nönü;3;Olumlu;?ikayet;Ahmet Kara;Marmara;22.04.2025;17:21:27
+34;Teber Gençay Karadeniz ?ener;17;Olumlu;Prim Bilgisi;Zeynep Tuna;Ege;24.05.2025;16:00:31
+35;Birgit Arsoy;17;Olumlu;Yenileme;Merve Y?ld?z;Ege;18.06.2025;09:50:51
+36;Bay Sümeyye Hayrio?lu;19;Olumlu;Hasar Takibi;Hasan Kaya;Karadeniz;22.05.2025;19:36:08
+37;Balta? ?hsano?lu;13;Olumsuz;?ikayet;Merve Y?ld?z;Marmara;10.05.2025;14:52:30
+38;Hayrünnisa A?begim Yüksel;9;Olumlu;Poliçe Bilgisi;Hasan Kaya;Marmara;29.06.2025;14:58:45
+39;Atilhan Gül;20;Olumlu;?ikayet;Zeynep Tuna;Marmara;22.05.2025;13:30:30
+40;Çetinsu Duran;4;Olumlu;Hasar Bildirimi;Ahmet Kara;Marmara;18.06.2025;17:35:31
+41;Ba?ok Ülker;12;Olumlu;?ikayet;Zeynep Tuna;?ç Anadolu;21.05.2025;12:33:24
+42;Dr. Rezzak Bilge;17;Olumlu;?ikayet;Zeynep Tuna;Akdeniz;3.06.2025;06:32:05
+43;Bayan Zerafet Gülper Demirel;20;Olumsuz;Hasar Bildirimi;Merve Y?ld?z;Karadeniz;5.05.2025;15:25:12
+44;Nurda Dumanl? Akçay;8;Olumlu;Poliçe Bilgisi;Merve Y?ld?z;?ç Anadolu;25.05.2025;15:06:27
+45;Bayan Ho?kadem Hadrey Erdo?an ?ama;15;Olumsuz;Poliçe ?ptali;Ahmet Kara;Marmara;7.04.2025;10:04:55
+46;Bay Abdülahat Arkut Demirel;3;Olumsuz;Hasar Takibi;Hasan Kaya;Marmara;5.06.2025;15:38:42
+47;Eflâtun Arcan Akçay;9;Olumlu;Hasar Bildirimi;Merve Y?ld?z;Ege;8.04.2025;10:15:57
+48;Belkize Zorlu;15;Olumlu;Yenileme;Merve Y?ld?z;Ege;28.04.2025;11:39:34
+49;S?rriye Bilir;4;Olumsuz;Prim Bilgisi;Ahmet Kara;Marmara;27.05.2025;17:34:29
+50;Yigit ?hsano?lu;19;Olumlu;Poliçe Bilgisi;Zeynep Tuna;Ege;30.06.2025;01:10:12
+51;Bayan Sonnur Sezgin Seven;15;Olumsuz;Poliçe ?ptali;Zeynep Tuna;Karadeniz;23.04.2025;20:45:21
+52;Aytek Tuyu? ?afak Ergül;3;Olumlu;Poliçe ?ptali;Ahmet Kara;Karadeniz;16.05.2025;12:04:42
+53;Dr. Ay?enur Canur Yorulmaz;10;Olumsuz;Yenileme;Merve Y?ld?z;Akdeniz;14.05.2025;11:14:39
+54;De?er Yüksel;17;Olumlu;Hasar Bildirimi;Hasan Kaya;Ege;23.04.2025;23:30:21
+55;Sadittin Dumanl?;3;Olumlu;Hasar Takibi;Hasan Kaya;Marmara;18.04.2025;23:43:01
+56;Bayan Laze Seyhan Yüksel;3;Olumsuz;?ikayet;Zeynep Tuna;Marmara;29.06.2025;06:46:06
+57;Mirbadin Sezgin;18;Olumlu;Prim Bilgisi;Zeynep Tuna;Marmara;28.06.2025;00:09:26
+58;Aliihsan Tunahan Duran Karadeniz;4;Olumlu;Poliçe ?ptali;Ahmet Kara;Akdeniz;6.04.2025;19:27:24
+59;Ça?dan Akdeniz;9;Olumlu;?ikayet;Ahmet Kara;Karadeniz;28.04.2025;07:52:21
+60;Dr. Nurullah Güçlü;20;Olumsuz;Yenileme;Zeynep Tuna;?ç Anadolu;26.04.2025;03:08:09
+61;A?han Aksu K?sakürek;9;Olumsuz;Poliçe ?ptali;Zeynep Tuna;?ç Anadolu;5.04.2025;14:05:27
+62;Kaver ?hsano?lu Çetin;16;Olumsuz;Prim Bilgisi;Ahmet Kara;Marmara;20.06.2025;14:33:09
+63;Dr. Safinaz Çisem Ülker Demirel;16;Olumlu;Poliçe Bilgisi;Zeynep Tuna;Akdeniz;22.05.2025;15:05:42
+64;Cüneyit Arslan;10;Olumlu;Yenileme;Ahmet Kara;Ege;26.04.2025;12:20:54
+65;Sezal Zahid Duran;13;Olumsuz;Hasar Bildirimi;Merve Y?ld?z;Akdeniz;11.04.2025;07:06:36
+66;Aç?lay Yorulmaz;11;Olumlu;Hasar Takibi;Hasan Kaya;Marmara;1.06.2025;02:18:03
+67;Bayan Aç?lay Zorlu Çorlu;6;Olumsuz;Poliçe Bilgisi;Ahmet Kara;Akdeniz;27.06.2025;00:50:25
+68;Bay Sökmen Erdo?an;6;Olumsuz;Yenileme;Zeynep Tuna;?ç Anadolu;9.06.2025;22:25:40
+69;Dr. Baydu Serda Yüksel;8;Olumsuz;?ikayet;Merve Y?ld?z;?ç Anadolu;31.05.2025;14:02:52
+70;Tayayd?n Atalay Seven;3;Olumlu;Hasar Takibi;Merve Y?ld?z;?ç Anadolu;8.06.2025;04:51:32
+71;Kader Bilir;3;Olumlu;Yenileme;Zeynep Tuna;?ç Anadolu;9.06.2025;09:38:35
+72;Hayel Eraslan;7;Olumsuz;?ikayet;Merve Y?ld?z;Akdeniz;13.05.2025;19:18:59
+73;Ufukay ?ensoy;2;Olumlu;Poliçe Bilgisi;Zeynep Tuna;Akdeniz;4.05.2025;12:06:44
+74;Dr. Benice Akise Erta? Mans?z;3;Olumsuz;?ikayet;Zeynep Tuna;Karadeniz;30.05.2025;00:56:19
+75;Aru Safet Bilir Zorlu;6;Olumlu;Yenileme;Hasan Kaya;Marmara;1.05.2025;03:01:49
+76;Hindal Akgündüz;13;Olumlu;Hasar Takibi;Zeynep Tuna;Marmara;12.04.2025;01:21:50
+77;Dr. Fenni Boynak Dumanl?;13;Olumsuz;?ikayet;Zeynep Tuna;Ege;25.06.2025;07:50:06
+78;?evketfeza Yosma Y?lmaz;7;Olumlu;Poliçe ?ptali;Ahmet Kara;Ege;9.06.2025;05:18:09
+79;Cuheyna Enfes Eraslan;12;Olumsuz;Prim Bilgisi;Zeynep Tuna;?ç Anadolu;16.04.2025;14:02:12
+80;Zoral Saydam Manço Aslan;7;Olumlu;Poliçe ?ptali;Ahmet Kara;Karadeniz;2.05.2025;17:36:29
+81;Ya?attin ?ama;9;Olumlu;Prim Bilgisi;Merve Y?ld?z;?ç Anadolu;25.04.2025;03:29:05
+82;Tülin Soylu;11;Olumlu;Hasar Bildirimi;Ahmet Kara;Ege;29.04.2025;18:13:24
+83;Ayd?nbey Temuçin ?afak;14;Olumsuz;Yenileme;Ahmet Kara;?ç Anadolu;24.06.2025;21:35:23
+84;Ayn?mah Y?lmaz;13;Olumsuz;Hasar Takibi;Hasan Kaya;Marmara;7.05.2025;18:18:42
+85;Tevs Eraslan;5;Olumsuz;Hasar Bildirimi;Hasan Kaya;Marmara;21.04.2025;01:34:54
+86;Dr. Övün Akise Demir Erdo?an;5;Olumsuz;Yenileme;Hasan Kaya;Karadeniz;30.06.2025;02:51:20
+87;Sancak Türk;18;Olumlu;Poliçe ?ptali;Zeynep Tuna;?ç Anadolu;25.06.2025;09:48:57
+88;?lde? Çal?m Manço ?afak;3;Olumsuz;Poliçe Bilgisi;Zeynep Tuna;?ç Anadolu;17.04.2025;18:02:17
+89;Gökçebalan Kader Akçay;15;Olumlu;Hasar Takibi;Hasan Kaya;Akdeniz;21.06.2025;16:10:04
+90;H?fzullah Dirican Tarhan;12;Olumlu;Hasar Takibi;Hasan Kaya;Akdeniz;29.04.2025;14:30:54
+91;Hükümdar Özalpsan Durmu? Akgündüz;11;Olumsuz;Yenileme;Merve Y?ld?z;?ç Anadolu;29.06.2025;07:17:49
+92;Bayan Havali Feyzin Sezgin;19;Olumlu;Hasar Bildirimi;Merve Y?ld?z;Karadeniz;23.06.2025;02:18:13
+93;Dr. Akar Akçay;7;Olumsuz;Poliçe ?ptali;Ahmet Kara;?ç Anadolu;15.06.2025;21:23:17
+94;Rezin Sezgin;11;Olumlu;Poliçe ?ptali;Hasan Kaya;Karadeniz;9.06.2025;10:03:55
+95;Dr. Bozerk Özerdinç Sezer;16;Olumsuz;Hasar Takibi;Zeynep Tuna;Akdeniz;15.04.2025;20:56:58
+96;Ayduru Akdeniz Güçlü;17;Olumlu;Hasar Takibi;Ahmet Kara;?ç Anadolu;26.04.2025;23:22:36
+97;?diris Çamurcuo?lu;18;Olumsuz;Poliçe Bilgisi;Zeynep Tuna;?ç Anadolu;20.05.2025;01:39:10
+98;Merva Haliye Bilgin Y?ld?r?m;9;Olumlu;Hasar Bildirimi;Ahmet Kara;Marmara;8.06.2025;11:03:26
+99;Korugan ?ama;9;Olumsuz;?ikayet;Ahmet Kara;Karadeniz;2.05.2025;10:15:38
+100;Önel Aslan;15;Olumlu;Hasar Takibi;Merve Y?ld?z;Karadeniz;9.05.2025;11:17:54
+101;Zehranur ?ama Akça;14;Olumlu;Hasar Bildirimi;Ahmet Kara;Marmara;8.04.2025;01:22:57
+102;Ermutlu Cavit Zengin Eraslan;15;Olumlu;Hasar Bildirimi;Merve Y?ld?z;Marmara;9.04.2025;02:12:51
+103;Sözer Merdi Ergül Gül;19;Olumlu;Prim Bilgisi;Ahmet Kara;Karadeniz;20.06.2025;17:34:44
+104;Seblâ Teveto?lu;6;Olumsuz;Hasar Takibi;Hasan Kaya;Karadeniz;25.05.2025;00:46:14
+105;Ka?if Seydo Akar Eraslan;18;Olumsuz;Prim Bilgisi;Merve Y?ld?z;Ege;9.04.2025;16:29:48
+106;Bayan Vildane Zemzem Tarhan;17;Olumsuz;Yenileme;Zeynep Tuna;?ç Anadolu;14.06.2025;05:27:43
+107;Jankat ?afak;18;Olumsuz;Hasar Takibi;Zeynep Tuna;?ç Anadolu;12.04.2025;04:07:09
+108;Minibe Ülker;16;Olumlu;Hasar Takibi;Hasan Kaya;Ege;26.06.2025;17:05:14
+109;Yeneral Ginyas Zorlu Hançer;10;Olumsuz;Yenileme;Ahmet Kara;Ege;9.06.2025;03:02:30
+110;Dr. Rahiye Mehdiye Durmu?;6;Olumlu;Poliçe ?ptali;Zeynep Tuna;Ege;17.04.2025;17:40:14
+111;Mahir Ülker;4;Olumsuz;Poliçe ?ptali;Hasan Kaya;Akdeniz;12.05.2025;04:32:28
+112;Dr. Kâmil Durmu?;16;Olumsuz;Poliçe Bilgisi;Zeynep Tuna;Karadeniz;25.06.2025;07:47:20
+113;Göken Arslan;14;Olumlu;Prim Bilgisi;Merve Y?ld?z;Karadeniz;25.04.2025;18:49:47
+114;Dr. Seçgül Selime Dumanl?;2;Olumsuz;Yenileme;Merve Y?ld?z;Karadeniz;9.06.2025;23:23:39
+115;Ozansü Güçlü;19;Olumlu;Poliçe ?ptali;Zeynep Tuna;?ç Anadolu;21.06.2025;10:36:22
+116;Bay Fehim Zorlu;15;Olumsuz;Poliçe Bilgisi;Merve Y?ld?z;?ç Anadolu;8.06.2025;19:57:36
+117;Bü?ranur Alemdar;14;Olumlu;Prim Bilgisi;Merve Y?ld?z;Ege;17.06.2025;07:20:50
+118;Dr. Ebuakil Ümmet Akar;19;Olumlu;Poliçe ?ptali;Ahmet Kara;Marmara;19.04.2025;16:25:41
+119;Alattin Yüksel;15;Olumlu;Prim Bilgisi;Merve Y?ld?z;Ege;21.05.2025;12:12:59
+120;Möhsim Seven;3;Olumsuz;Poliçe ?ptali;Hasan Kaya;Ege;30.06.2025;09:55:02
+121;Yekda Sezer;16;Olumsuz;Yenileme;Merve Y?ld?z;?ç Anadolu;12.05.2025;15:48:11
+122;Dr. Heva Manço ?ensoy;15;Olumsuz;Prim Bilgisi;Ahmet Kara;Karadeniz;11.06.2025;03:20:41
+123;Çapkan Bilge;2;Olumlu;Yenileme;Zeynep Tuna;Marmara;19.06.2025;03:24:22
+124;Özakan Mazlum Bilgin Akçay;3;Olumlu;Hasar Bildirimi;Zeynep Tuna;Marmara;22.06.2025;10:46:49
+125;Bayan Çolpan Hurican Çamurcuo?lu Akdeniz;6;Olumlu;Hasar Bildirimi;Merve Y?ld?z;Marmara;17.04.2025;03:51:16
+126;Bayan Sezen Yurtseven Durmu? Teveto?lu;20;Olumlu;Poliçe ?ptali;Hasan Kaya;?ç Anadolu;6.05.2025;04:25:35
+127;Dr. Zülbiye Semat Akçay Aksu;7;Olumlu;Prim Bilgisi;Zeynep Tuna;?ç Anadolu;16.06.2025;13:54:40
+128;Dr. I??n ?nönü Yüksel;5;Olumlu;Yenileme;Merve Y?ld?z;Karadeniz;25.06.2025;22:05:27
+129;Yah?i Soylu;8;Olumlu;?ikayet;Zeynep Tuna;Marmara;5.06.2025;05:29:53
+130;Dr. Me?hur Asalet Demirel;11;Olumlu;Prim Bilgisi;Ahmet Kara;?ç Anadolu;3.05.2025;02:51:48
+131;Dr. Hakikat Günaydin Akçay;19;Olumsuz;Hasar Takibi;Hasan Kaya;Marmara;27.05.2025;19:42:52
+132;Berkal Manço;18;Olumsuz;Poliçe Bilgisi;Merve Y?ld?z;Karadeniz;27.04.2025;19:56:48
+133;Fayize Demirel Bilir;5;Olumsuz;Yenileme;Merve Y?ld?z;Ege;11.04.2025;14:43:57
+134;Dr. Münezzer Zeyno Erta?;15;Olumlu;Hasar Takibi;Hasan Kaya;Akdeniz;15.05.2025;17:53:34
+135;Dilder ?smet Seven;19;Olumsuz;Poliçe ?ptali;Merve Y?ld?z;Akdeniz;13.05.2025;04:36:55
+136;Ço?ay Durdu;10;Olumsuz;Prim Bilgisi;Zeynep Tuna;Marmara;12.05.2025;07:25:14
+137;Bayan Nefaret Hançer ?nönü;10;Olumsuz;Hasar Bildirimi;Merve Y?ld?z;Akdeniz;13.05.2025;05:48:12
+138;Bayan Talibe Gürcüye Aslan;14;Olumsuz;Poliçe Bilgisi;Merve Y?ld?z;?ç Anadolu;17.05.2025;16:38:24
+139;Bayan Olu? ?ama Ülker;7;Olumsuz;Hasar Bildirimi;Hasan Kaya;?ç Anadolu;10.06.2025;07:35:02
+140;Firdevis Karadeniz Erta?;12;Olumsuz;?ikayet;Hasan Kaya;Akdeniz;3.07.2025;15:45:21
+141;Tayyip Duran;2;Olumlu;Poliçe Bilgisi;Zeynep Tuna;Karadeniz;7.04.2025;23:54:17
+142;?sra Durdu Ülker;17;Olumlu;Hasar Takibi;Merve Y?ld?z;Karadeniz;8.04.2025;00:13:15
+143;Toktu? ?afak;16;Olumlu;Poliçe Bilgisi;Hasan Kaya;Ege;18.04.2025;13:16:16
+144;Bayan Ayyaruk Jaruthip K?sakürek Hayrio?lu;14;Olumlu;Yenileme;Hasan Kaya;Karadeniz;25.04.2025;22:16:22
+145;Dr. Nafile Nurmelek Aslan ?nönü;19;Olumsuz;Poliçe ?ptali;Hasan Kaya;?ç Anadolu;25.06.2025;03:35:33
+146;Dr. Bidayet Sirap Y?ld?r?m;16;Olumsuz;Yenileme;Hasan Kaya;Ege;17.06.2025;02:25:17
+147;Hiçsönmez Eba ?ensoy;5;Olumlu;Yenileme;Ahmet Kara;Akdeniz;12.04.2025;00:57:39
+148;Ça?las?n Akdurmu? Akça;7;Olumlu;Hasar Bildirimi;Merve Y?ld?z;?ç Anadolu;29.04.2025;09:16:49
+149;?ahat Y?ld?r?m;20;Olumsuz;Poliçe Bilgisi;Zeynep Tuna;?ç Anadolu;4.06.2025;16:53:08
+150;Enes Yaman;9;Olumsuz;Hasar Bildirimi;Hasan Kaya;Marmara;21.05.2025;08:32:45
+151;Seler Durdali Erta? Sezer;19;Olumlu;Yenileme;Ahmet Kara;Marmara;30.04.2025;06:09:34
+152;Fügen ?elâle Teveto?lu Korutürk;19;Olumsuz;Hasar Takibi;Zeynep Tuna;Karadeniz;14.06.2025;02:57:44
+153;Över ?lalm?? Aksu Hançer;5;Olumlu;?ikayet;Hasan Kaya;Karadeniz;15.04.2025;20:57:25
+154;Görklü Durdu;17;Olumsuz;Yenileme;Zeynep Tuna;Marmara;10.06.2025;03:24:07
+155;Permun Akça Demirel;10;Olumsuz;Poliçe Bilgisi;Ahmet Kara;Karadeniz;24.04.2025;15:12:37
+156;Sulhi Sezer;17;Olumlu;?ikayet;Ahmet Kara;Ege;25.06.2025;00:26:26
+157;Bay Vedat Önel Hançer;6;Olumsuz;Poliçe Bilgisi;Zeynep Tuna;Marmara;26.06.2025;22:23:43
+158;Özp?nar Selâtin Çetin Türk;19;Olumsuz;?ikayet;Zeynep Tuna;Akdeniz;9.05.2025;02:06:43
+159;Dr. Behiza Türcan ?ensoy;14;Olumsuz;Poliçe ?ptali;Hasan Kaya;Akdeniz;8.05.2025;12:11:41
+160;?endo?an Seven;15;Olumsuz;?ikayet;Ahmet Kara;Akdeniz;24.06.2025;05:14:18
+161;Bayan Sayg?n Arsoy ?ener;5;Olumlu;Hasar Takibi;Zeynep Tuna;?ç Anadolu;30.06.2025;22:35:20
+162;Bayan Sebigül Göli Gül F?rat;4;Olumlu;Hasar Bildirimi;Zeynep Tuna;Akdeniz;7.06.2025;12:44:39
+163;?öhret Sezgin;4;Olumlu;Poliçe Bilgisi;Merve Y?ld?z;Karadeniz;3.07.2025;15:55:59
+164;Dr. Seblâ Alemdar Gül;17;Olumsuz;Poliçe Bilgisi;Zeynep Tuna;?ç Anadolu;1.06.2025;21:38:04
+165;Musaffa Akdeniz;11;Olumsuz;Poliçe Bilgisi;Zeynep Tuna;?ç Anadolu;29.04.2025;05:06:49
+166;E?ref Akgündüz;20;Olumlu;Poliçe ?ptali;Ahmet Kara;Akdeniz;19.05.2025;03:30:48
+167;Dr. Serda Tando?du Ülker;9;Olumlu;Yenileme;Zeynep Tuna;Marmara;12.05.2025;04:10:39
+168;Asiman Soylu;3;Olumlu;Prim Bilgisi;Hasan Kaya;Akdeniz;26.06.2025;23:55:56
+169;Gülbeyan Soylu;20;Olumsuz;Poliçe ?ptali;Ahmet Kara;Karadeniz;25.04.2025;23:20:37
+170;I?in Narhanim Aslan Akgündüz;11;Olumsuz;Yenileme;Merve Y?ld?z;Karadeniz;2.06.2025;06:12:37
+171;Çisem Y?lmaz;4;Olumlu;Poliçe ?ptali;Hasan Kaya;Akdeniz;25.05.2025;12:53:50
+172;Atilhan Yüksel;10;Olumlu;Poliçe Bilgisi;Zeynep Tuna;Akdeniz;14.06.2025;06:57:51
+173;Dr. Çilga Hazine Sezer;20;Olumlu;Prim Bilgisi;Hasan Kaya;Akdeniz;21.05.2025;14:26:45
+174;Dr. Almast Çorlu Arslan;3;Olumlu;Poliçe ?ptali;Merve Y?ld?z;?ç Anadolu;26.04.2025;21:25:32
+175;Heva Hançer Ülker;7;Olumsuz;Hasar Takibi;Merve Y?ld?z;Marmara;31.05.2025;20:11:28
+176;Sonnur Ça?lar F?rat Ergül;17;Olumsuz;Poliçe ?ptali;Hasan Kaya;?ç Anadolu;16.05.2025;16:33:51
+177;Nefaret Sezer;5;Olumlu;Yenileme;Merve Y?ld?z;Karadeniz;19.05.2025;10:22:18
+178;Meryeme Eraslan;11;Olumsuz;Prim Bilgisi;Ahmet Kara;Karadeniz;27.04.2025;18:15:40
+179;Yertan Dan?? Hayrio?lu Demir;4;Olumsuz;Yenileme;Hasan Kaya;Marmara;16.06.2025;12:06:25
+180;Bay Do?uhan Korutürk;14;Olumlu;Hasar Takibi;Merve Y?ld?z;Karadeniz;22.05.2025;09:19:59
+181;?nsaf ?nönü;3;Olumlu;?ikayet;Hasan Kaya;Akdeniz;26.05.2025;07:33:40
+182;Cemiyle Gülgüzel Arslan;17;Olumsuz;Prim Bilgisi;Ahmet Kara;Ege;27.04.2025;11:08:34
+183;Gül Meni?an Y?lmaz Demirel;10;Olumlu;Yenileme;Merve Y?ld?z;Karadeniz;27.05.2025;05:41:36
+184;Eskinalp Türk;5;Olumlu;Hasar Takibi;Zeynep Tuna;Ege;10.04.2025;16:07:24
+185;Egenur Tanses Sakarya;11;Olumlu;?ikayet;Merve Y?ld?z;Marmara;29.06.2025;02:39:10
+186;Server Arslan;9;Olumlu;Poliçe ?ptali;Ahmet Kara;Ege;20.05.2025;22:50:33
+187;Dr. Narhanim Akçay Yorulmaz;17;Olumsuz;?ikayet;Hasan Kaya;Karadeniz;29.04.2025;21:23:09
+188;Bayan Basriye Gülen Soylu;17;Olumsuz;Hasar Bildirimi;Merve Y?ld?z;Akdeniz;12.04.2025;13:41:33
+189;Bin???k Bilgütay Sezgin;6;Olumsuz;Hasar Bildirimi;Zeynep Tuna;Marmara;30.05.2025;00:34:47
+190;Binay Huban Demir;10;Olumsuz;Yenileme;Hasan Kaya;Marmara;29.05.2025;13:28:22
+191;Bayan Yasemen Nurseda Dumanl?;11;Olumsuz;Prim Bilgisi;Merve Y?ld?z;Ege;2.07.2025;14:02:14
+192;Dr. ?ncifir Sanavber Hançer Durdu;16;Olumsuz;Yenileme;Hasan Kaya;Akdeniz;4.06.2025;16:10:01
+193;Tando?du Zeynelabidin Sakarya;19;Olumsuz;Poliçe ?ptali;Hasan Kaya;Ege;18.06.2025;10:22:29
+194;Teber Bilir;9;Olumsuz;Hasar Bildirimi;Merve Y?ld?z;Marmara;1.05.2025;01:44:19
+195;Borata? Yüksel;12;Olumsuz;Hasar Takibi;Merve Y?ld?z;Karadeniz;22.04.2025;06:05:00
+196;Borata? Y?lmaz;6;Olumsuz;Poliçe Bilgisi;Zeynep Tuna;Akdeniz;15.05.2025;00:59:00
+197;Dr. Maynur Atiyye Bilgin Arslan;20;Olumsuz;Prim Bilgisi;Ahmet Kara;Karadeniz;13.06.2025;00:23:42
+198;Servinaz Belkize Tarhan;5;Olumsuz;Poliçe Bilgisi;Zeynep Tuna;Karadeniz;28.04.2025;00:59:07
+199;?nsaf Ülker;6;Olumlu;Poliçe ?ptali;Hasan Kaya;?ç Anadolu;22.06.2025;10:18:16
+200;Mazlum Demir;14;Olumlu;Prim Bilgisi;Hasan Kaya;Akdeniz;28.05.2025;05:59:27
